@@ -695,6 +695,7 @@ if __name__ == "__main__":
    ```text
    ![Unit tests](images/unit-tests.png)
    ```
+   ![img.png](img.png)
 
 2. Commit your changes to the local repository. Tag the commit with `s6` so your lecturer can find it:
 3. Push the tag to the remote repository:
